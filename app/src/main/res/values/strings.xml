@@ -2,5 +2,5 @@
     <string name="nombre">PrimerNombre</string>
     <string name="apellido">Apellido</string>
     <string name="edad">Edad</string>
-    <string name="ingresar">Ingresar</string>
+    <string name="ingresar">Acceder</string>
 </resources>
